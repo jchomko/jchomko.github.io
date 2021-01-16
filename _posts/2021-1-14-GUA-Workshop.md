@@ -1,3 +1,8 @@
+---
+layout: post
+title: You're up and running!
+---
+
 **Workshop Notes for GUA**
 
 www.grinderuberairbnb.exposed Workshop Description:
